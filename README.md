@@ -1,7 +1,7 @@
-# KOPIYKA — Бізнес-огляд (Bolt Food UA)
+# KOPIYKA — Бізнес-огляд
 
-**Звіт (GitHub Pages):** https://mykhailobrynchak-dev.github.io/kopiyka-report/
+Bolt Food UA · Автоматично оновлюється щопонеділка.
 
-Звіт охоплює групу магазинів KOPIYKA, до якої входять три бренди: **KOPIYKA**, **KOPIYKA MINI**, **SANTIM**.
+**Live:** https://mykhailobrynchak-dev.github.io/kopiyka-report/
 
-У цьому репозиторії — лише готовий `index.html`. Код генерації, SQL-запити та секрети — локально в `Reports/KOPIYKA/` (не в git).
+> Цей репозиторій містить лише згенерований звіт. Код генерації знаходиться у приватному репо stores-qbr-engine.
